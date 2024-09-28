@@ -6,3 +6,7 @@ class Anbu
      System.out.println(" corp filed");
     }
 }
+for (i=0;i<=5;i++)
+{
+  System.out.println ("BNG");
+}
