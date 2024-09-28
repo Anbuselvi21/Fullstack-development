@@ -8,5 +8,5 @@ class Anbu
 }
 for (i=0;i<=5;i++)
 {
-  System.out.println ("BNG");
+  System.out.println ("B NG");
 }
