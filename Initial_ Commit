@@ -1,12 +1,8 @@
 First code has been created
-class Anbu
-{
-   public static void main ( String [] args)
-   {
-     System.out.println(" corp filed");
-    }
-}
-for (i=0;i<=5;i++)
-{
-  System.out.println ("B NG");
-}
+I want to use a facebbok:
+Sign in account
+login page
+Homepage
+Friendlist
+Notifications
+Settings
